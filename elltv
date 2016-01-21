@@ -39,6 +39,10 @@ http://www.iptvsaga.com/play/tv3/0146.m3u8
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0070 tvg-id="MADTV.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Mad TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0139.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]JAYZEE[/COLOR]
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ELLINIKOS TV[/COLOR]
+http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Omega[/COLOR]
 http://www.iptvsaga.com/play/tv3/0149.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]DIKTYO[/COLOR]
@@ -79,8 +83,6 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]TRT TV[/COLOR]
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]JAYZEE[/COLOR]
-http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]APEIRO TV[/COLOR]
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]HELLAS TV[/COLOR]
@@ -93,8 +95,6 @@ http://xdiontvx.api.channel.livestream.com/3.0/playlist.m3u8
 http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]START TV[/COLOR]
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]LEPANTO[/COLOR]
-http://78.129.184.15:33102/streaming/stream/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]LYCHNOS[/COLOR]
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]SAMIAKI[/COLOR]
@@ -103,10 +103,6 @@ rtmp://94.23.218.186/samiaki/samiaki
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]MYTILINI[/COLOR]
 hrtmp://cp77174.live.edgefcs.net/live/123456@19937
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ELLINIKOS TV[/COLOR]
-http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]MANA ELLADA[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
 #EXTINF:0070 tvg-id="RikSat.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]RIK SAT[/COLOR]
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ANT1 CY[/COLOR]
