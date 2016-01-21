@@ -101,8 +101,6 @@ http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 rtmp://94.23.218.186/samiaki/samiaki
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]TV1[/COLOR]
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]MYTILINI[/COLOR]
-hrtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:0070 tvg-id="RikSat.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]RIK SAT[/COLOR]
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ANT1 CY[/COLOR]
