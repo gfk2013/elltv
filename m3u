@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:0070 tvg-id="NEPIT1.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ERT1[/COLOR]
+http://www.iptvsaga.com/play/tv3/0129.m3u8
+#EXTINF:0070 tvg-id="NEPITplus.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ERT2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0130.m3u8
+#EXTINF:0070 tvg-id="EPT3.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ERT3[/COLOR]
+http://www.iptvsaga.com/play/tv3/0131.m3u8
+#EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ANT1[/COLOR]
+http://www.iptvsaga.com/play/tv3/0133.m3u8
+#EXTINF:0070 tvg-id="mega.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]MEGA[/COLOR]
+http://www.iptvsaga.com/play/tv3/0134.m3u8
+#EXTINF:0070 tvg-id="alpha.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ALPHA[/COLOR]
+http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
+#EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]STAR[/COLOR]
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+#EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]E TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0143.m3u8
+#EXTINF:0070 tvg-id="Skai.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Skai[/COLOR]
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/W_oUsIkmm6I.1/itag/92/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/V19vVXNJa21tNkkuMQ.92/hls_chunk_host/r13---sn-4g57kn67.googlevideo.com/pmbypass/yes/gcr/de/playlist_type/DVR/mm/32/mn/sn-4g57kn67/ms/lv/mv/u/nh/IgpwcjAxLmZyYTAzKgkxMjcuMC4wLjE/pl/18/dover/3/keepalive/yes/sver/3/upn/yCnTbAsJQ2s/fexp/9416126,9420452,9422596,9423662/mt/1453384152/ip/88.64.88.251/ipbits/0/expire/1453406109/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,pmbypass,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/27F51CA82C11F209184DCAD4003790C6ECF7D282.3B21B6ADFE2F6851DF81ADFB4DE84250E3B17659/key/dg_yt0/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/W_oUsIkmm6I.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/V19vVXNJa21tNkkuMQ.93/hls_chunk_host/r13---sn-4g57kn67.googlevideo.com/pmbypass/yes/gcr/de/playlist_type/DVR/mm/32/mn/sn-4g57kn67/ms/lv/mv/u/nh/IgpwcjAxLmZyYTAzKgkxMjcuMC4wLjE/pl/18/dover/3/keepalive/yes/sver/3/upn/yCnTbAsJQ2s/fexp/9416126,9420452,9422596,9423662/mt/1453384152/ip/88.64.88.251/ipbits/0/expire/1453406109/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,pmbypass,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/5ED32BF820943669EE12039750BDFD01325DE14D.6822C391542B20E850B246E525A3638E1A108CB2/key/dg_yt0/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/W_oUsIkmm6I.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/V19vVXNJa21tNkkuMQ.94/hls_chunk_host/r13---sn-4g57kn67.googlevideo.com/pmbypass/yes/gcr/de/playlist_type/DVR/mm/32/mn/sn-4g57kn67/ms/lv/mv/u/nh/IgpwcjAxLmZyYTAzKgkxMjcuMC4wLjE/pl/18/dover/3/keepalive/yes/sver/3/upn/yCnTbAsJQ2s/fexp/9416126,9420452,9422596,9423662/mt/1453384152/ip/88.64.88.251/ipbits/0/expire/1453406109/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,pmbypass,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/3059D3B7BFEBDABEE18BAE0EB4A2533816840754.84D4CB0363BABCF91FE71175ABC36CA605ED1809/key/dg_yt0/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/W_oUsIkmm6I.1/itag/132/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/V19vVXNJa21tNkkuMQ.132/hls_chunk_host/r13---sn-4g57kn67.googlevideo.com/pmbypass/yes/gcr/de/playlist_type/DVR/mm/32/mn/sn-4g57kn67/ms/lv/mv/u/nh/IgpwcjAxLmZyYTAzKgkxMjcuMC4wLjE/pl/18/dover/3/keepalive/yes/sver/3/upn/yCnTbAsJQ2s/fexp/9416126,9420452,9422596,9423662/mt/1453384152/ip/88.64.88.251/ipbits/0/expire/1453406109/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,pmbypass,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/2AD853C00A8E6EE4369CD5B91552B0506F0CF7F2.1781013D84353DBC9323C65ADBC808A7DB647E04/key/dg_yt0/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/W_oUsIkmm6I.1/itag/151/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/V19vVXNJa21tNkkuMQ.151/hls_chunk_host/r13---sn-4g57kn67.googlevideo.com/pmbypass/yes/gcr/de/playlist_type/DVR/mm/32/mn/sn-4g57kn67/ms/lv/mv/u/nh/IgpwcjAxLmZyYTAzKgkxMjcuMC4wLjE/pl/18/dover/3/keepalive/yes/sver/3/upn/yCnTbAsJQ2s/fexp/9416126,9420452,9422596,9423662/mt/1453384152/ip/88.64.88.251/ipbits/0/expire/1453406109/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,pmbypass,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/18A786205B01447AE46FDB3A56AA7B352C3CEAE8.551F67D9F7BE99330F6CE5E6840B2223A1DAA2DF/key/dg_yt0/playlist/index.m3u8
+#EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]EURONEWS[/COLOR]
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
+#EXTINF:0070 tvg-id="vouli.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]VOULI[/COLOR]
+mms://media19.internet.gr/ParliamentTV-HQ
+#EXTINF:0070 tvg-id="MacedoniaEN.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Makedonia TV[/COLOR]
+http://stream.maktv.gr/i/live_1@332903/master.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Zougla TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0136.m3u8
+#EXTINF:0070 tvg-id="APT.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Tilesport APT[/COLOR]
+http://www.iptvsaga.com/play/tv3/0137.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Nea TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0138.m3u8
+#EXTINF:0070 tvg-id="MADTV.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Mad TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0139.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]KRHTH TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0140.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]CRETA TV[/COLOR]
+http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]TV-100[/COLOR]
+http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]DIKTYO[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
+#EXTINF:0070 tvg-id="Kontra.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Kontra TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0141.m3u8
+#EXTINF:0070 tvg-id="Extra.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Extra Channel[/COLOR]
+http://www.iptvsaga.com/play/tv3/0142.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Blue Sky[/COLOR]
+http://www.iptvsaga.com/play/tv3/0146.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Astra TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0147.m3u8
+#EXTINF:0070 tvg-id="4E.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]4E[/COLOR]
+http://www.iptvsaga.com/play/tv3/0148.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Omega[/COLOR]
+http://www.iptvsaga.com/play/tv3/0149.m3u8
+#EXTINF:0070 tvg-id="IPIROSTV.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]EPIRUS TV1[/COLOR]
+http://www.iptvsaga.com/play/tv3/0150.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Makeleio WEB TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0151.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Messinia WEB TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0152.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Thrakinet[/COLOR]
+http://www.iptvsaga.com/play/tv3/0153.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Mpaxalo TV[/COLOR]
+http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Gold TV[/COLOR]
+mms://tvgold.webcast.mediacdn.com/tvgold
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]STAR B.E.[/COLOR]
+mmsh://radiofeeds1.mediabox.gr/startv
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]DELTA TV[/COLOR]
+mms://deltatv1.dyndns.org:1194
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]AXELWOS[/COLOR]
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]BHMA TV[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]CORFU TV[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphone/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]TRT TV[/COLOR]
+http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0070 tvg-id="RikSat.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]RIK SAT[/COLOR]
+http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ANT1 CY[/COLOR]
+rtmp://46.21.53.171/iwohttporigin/mp4:livestream
