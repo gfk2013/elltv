@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0070 tvg-id="NEPIT1.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ERT1[/COLOR]
-http://www.iptvsaga.com/play/tv3/0129.m3u8
+http://nerit1-lh.akamaihd.net/i/nerit_1@42604/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0070 tvg-id="NEPITplus.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ERT2[/COLOR]
 http://www.iptvsaga.com/play/tv3/0130.m3u8
 #EXTINF:0070 tvg-id="EPT3.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ERT3[/COLOR]
