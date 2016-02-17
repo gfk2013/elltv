@@ -7,24 +7,24 @@ http://www.iptvsaga.com/play/tv3/0130.m3u8
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
 #EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="ANT1.png",[COLOR orange]ANT1[/COLOR]
 http://www.iptvsaga.com/play/tv3/0133.m3u8
-<#EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="ANT1.png",ANT1 2>
-<http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8>
+EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="ANT1.png",ANT1 2
+http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
 #EXTINF:0070 tvg-id="mega.gr" group-title="Greek" tvg-logo="MEGA.png",[COLOR orange]MEGA[/COLOR]
 http://www.iptvsaga.com/play/tv3/0134.m3u8
 #EXTINF:0070 tvg-id="mega.gr" group-title="Greek" tvg-logo="MEGA.png",MEGA 2
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0070 tvg-id="alpha.gr" group-title="Greek" tvg-logo="ALPHA.png",[COLOR orange]ALPHA[/COLOR]
 http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
-<#EXTINF:0070 tvg-id="alpha.gr" group-title="Greek" tvg-logo="ALPHA.png",ALPHA 2>
-<http://154.57.7.251:8000/alph>
+#EXTINF:0070 tvg-id="alpha.gr" group-title="Greek" tvg-logo="ALPHA.png",ALPHA 2
+http://154.57.7.251:8000/alph
 #EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo="STAR.png",[COLOR orange]STAR[/COLOR]
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo="STAR.png",STAR 2
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo="E TV.png",[COLOR orange]E TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0143.m3u8
-<#EXTINF:0070 tvg-id="Skai.gr" group-title="Greek" tvg-logo="SKAI.png",[COLOR orange]SKAI[/COLOR]>
-<http://154.57.7.251:8000/skai>
+#EXTINF:0070 tvg-id="Skai.gr" group-title="Greek" tvg-logo="SKAI.png",[COLOR orange]SKAI[/COLOR]
+http://154.57.7.251:8000/skai
 #EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="EURONEWS.png",[COLOR orange]EURONEWS[/COLOR]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0070 tvg-id="Macedonia.gr" group-title="Greek" tvg-logo="MACEDONIA TV.png",[COLOR orange]Makedonia TV[/COLOR]
