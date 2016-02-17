@@ -7,7 +7,7 @@ http://www.iptvsaga.com/play/tv3/0130.m3u8
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
 #EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="ANT1.png",[COLOR orange]ANT1[/COLOR]
 http://www.iptvsaga.com/play/tv3/0133.m3u8
-#EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="ANT1.png",ANT1 2
+<#EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="ANT1.png",ANT1 2>
 http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
 #EXTINF:0070 tvg-id="mega.gr" group-title="Greek" tvg-logo="MEGA.png",[COLOR orange]MEGA[/COLOR]
 http://www.iptvsaga.com/play/tv3/0134.m3u8
@@ -15,7 +15,7 @@ http://www.iptvsaga.com/play/tv3/0134.m3u8
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0070 tvg-id="alpha.gr" group-title="Greek" tvg-logo="ALPHA.png",[COLOR orange]ALPHA[/COLOR]
 http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
-#EXTINF:0070 tvg-id="alpha.gr" group-title="Greek" tvg-logo="ALPHA.png",ALPHA 2
+<#EXTINF:0070 tvg-id="alpha.gr" group-title="Greek" tvg-logo="ALPHA.png",ALPHA 2>
 http://154.57.7.251:8000/alph
 #EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo="STAR.png",[COLOR orange]STAR[/COLOR]
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
@@ -23,14 +23,14 @@ http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo="E TV.png",[COLOR orange]E TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0143.m3u8
-#EXTINF:0070 tvg-id="Skai.gr" group-title="Greek" tvg-logo="SKAI.png",[COLOR orange]SKAI[/COLOR]
+<#EXTINF:0070 tvg-id="Skai.gr" group-title="Greek" tvg-logo="SKAI.png",[COLOR orange]SKAI[/COLOR]>
 http://154.57.7.251:8000/skai
 #EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="EURONEWS.png",[COLOR orange]EURONEWS[/COLOR]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0070 tvg-id="Macedonia.gr" group-title="Greek" tvg-logo="MACEDONIA TV.png",[COLOR orange]Makedonia TV[/COLOR]
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:0070 tvg-id="vouli.gr" group-title="Greek" tvg-logo="BOYLH TV.png",[COLOR orange]VOULI[/COLOR]
-mms://media19.internet.gr/ParliamentTV-HQ
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="TV 100.png",[COLOR orange]TV-100[/COLOR]
+http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
 #EXTINF:0070 tvg-id="Kontra.gr" group-title="Greek" tvg-logo="KONTRA CHANNEL.png",[COLOR orange]Kontra TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0141.m3u8
 #EXTINF:0070 tvg-id="Extra.gr" group-title="Greek" tvg-logo="EXTRA TV.png",[COLOR orange]Extra Channel[/COLOR]
@@ -39,12 +39,14 @@ http://www.iptvsaga.com/play/tv3/0142.m3u8
 http://www.iptvsaga.com/play/tv3/0146.m3u8
 #EXTINF:0070 tvg-id="MADTV.gr" group-title="Greek" tvg-logo="MAD TV.png",[COLOR orange]Mad TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0139.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ELLINIKOSFM TV[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ELLINIKOS FM TV[/COLOR]
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="OMEGA TV.png",[COLOR orange]Omega[/COLOR]
 http://www.iptvsaga.com/play/tv3/0149.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="DIKTYO TV.png",[COLOR orange]DIKTYO[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
+#EXTINF:0070 tvg-id="vouli.gr" group-title="Greek" tvg-logo="BOYLH TV.png",[COLOR orange]VOULI[/COLOR]
+mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ART CHANNEL.png",[COLOR orange]APT[/COLOR]
 https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="SBC.png",[COLOR orange]SBC[/COLOR]
@@ -113,8 +115,6 @@ http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="SIGMA.png",[COLOR orange]SIGMA CY[/COLOR]
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="TV 100.png",[COLOR orange]TV-100[/COLOR]
-http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]TOP CHANNEL[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]PONTOS[/COLOR]
