@@ -7,7 +7,7 @@ http://www.iptvsaga.com/play/tv3/0130.m3u8
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
 #EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="ANT1.png",[COLOR orange]ANT1[/COLOR]
 http://www.iptvsaga.com/play/tv3/0133.m3u8
-#EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="ANT1.png",ANT1 2
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ANT1.png",ANT1 2
 http://over.ddns.net:65106/
 #EXTINF:0070 tvg-id="mega.gr" group-title="Greek" tvg-logo="MEGA.png",[COLOR orange]MEGA[/COLOR]
 http://www.iptvsaga.com/play/tv3/0134.m3u8
@@ -27,21 +27,21 @@ http://over.ddns.net:65112/
 http://www.iptvsaga.com/play/tv3/0143.m3u8
 #EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="EURONEWS.png",[COLOR orange]EURONEWS[/COLOR]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="",[COLOR orange]ANIMAL PLANET[/COLOR]
+#EXTINF:0070 tvg-id="animalplanet.gr" group-title="Greek" tvg-logo="",[COLOR orange]ANIMAL PLANET[/COLOR]
 http://over.ddns.net:65210/
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="",[COLOR orange]NATIONAL GEOGRAPHIC[/COLOR]
+#EXTINF:0070 tvg-id="natgeo.gr" group-title="Greek" tvg-logo="",[COLOR orange]NATIONAL GEOGRAPHIC[/COLOR]
 http://over.ddns.net:65203/
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="",[COLOR orange]NATGEO WILD[/COLOR]
+#EXTINF:0070 tvg-id="NatGeoWild.gr" group-title="Greek" tvg-logo="",[COLOR orange]NATGEO WILD[/COLOR]
 http://over.ddns.net:65211/
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="g",[COLOR orange]DISCOVERY[/COLOR]
+#EXTINF:0070 tvg-id="discovery.gr" group-title="Greek" tvg-logo="g",[COLOR orange]DISCOVERY[/COLOR]
 http://over.ddns.net:65204/
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="",[COLOR orange]HISTORY[/COLOR]
+#EXTINF:0070 tvg-id="TheHistoryChannel.gr" group-title="Greek" tvg-logo="",[COLOR orange]HISTORY[/COLOR]
 http://over.ddns.net:65205/
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="",[COLOR orange]FOX[/COLOR]
+#EXTINF:0070 tvg-id="FOX.gr" group-title="Greek" tvg-logo="",[COLOR orange]FOX[/COLOR]
 http://over.ddns.net:65206/
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="",[COLOR orange]FOX LIVE[/COLOR]
+#EXTINF:0070 tvg-id="Foxlife.gr" group-title="Greek" tvg-logo="",[COLOR orange]FOX LIVE[/COLOR]
 http://over.ddns.net:65207/
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="",[COLOR orange]IDX[/COLOR]
+#EXTINF:0070 tvg-id="DiscoveryID.gr" group-title="Greek" tvg-logo="",[COLOR orange]IDX[/COLOR]
 http://over.ddns.net:65208/
 #EXTINF:0070 tvg-id="Macedonia.gr" group-title="Greek" tvg-logo="MACEDONIA TV.png",[COLOR orange]Makedonia TV[/COLOR]
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
@@ -49,9 +49,9 @@ http://stream.maktv.gr/i/live_1@332903/master.m3u8
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="DIKTYO TV.png",[COLOR orange]DIKTYO[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="",[COLOR orange]BABY TV[/COLOR]
+#EXTINF:0070 tvg-id="BabyTV.gr" group-title="Greek" tvg-logo="",[COLOR orange]BABY TV[/COLOR]
 http://over.ddns.net:65201/
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="",[COLOR orange]JUNIOR[/COLOR]
+#EXTINF:0070 tvg-id="DisneyJunior.gr" group-title="Greek" tvg-logo="",[COLOR orange]JUNIOR[/COLOR]
 http://over.ddns.net:65202/
 #EXTINF:0070 tvg-id="Kontra.gr" group-title="Greek" tvg-logo="KONTRA CHANNEL.png",[COLOR orange]Kontra TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0141.m3u8
