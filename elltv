@@ -37,6 +37,8 @@ http://over.ddns.net:65211/
 http://over.ddns.net:65204/
 #EXTINF:0070 tvg-id="TheHistoryChannel.gr" group-title="Greek" tvg-logo="",[COLOR orange]HISTORY[/COLOR]
 http://over.ddns.net:65205/
+#EXTINF:0070 tvg-id="DiscoveryScience.gr" group-title="Greek" tvg-logo="",[COLOR orange]SCIENCE[/COLOR]
+http://over.ddns.net:65212/
 #EXTINF:0070 tvg-id="FOX.gr" group-title="Greek" tvg-logo="",[COLOR orange]FOX[/COLOR]
 http://over.ddns.net:65206/
 #EXTINF:0070 tvg-id="Foxlife.gr" group-title="Greek" tvg-logo="",[COLOR orange]FOX LIVE[/COLOR]
