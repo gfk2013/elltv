@@ -7,6 +7,8 @@ http://www.iptvsaga.com/play/tv3/0130.m3u8
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
 #EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="ANT1.png",[COLOR orange]ANT1[/COLOR]
 http://www.iptvsaga.com/play/tv3/0133.m3u8
+#EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="ANT1.png",ANT1 2
+http://over.ddns.net:65106/
 #EXTINF:0070 tvg-id="mega.gr" group-title="Greek" tvg-logo="MEGA.png",[COLOR orange]MEGA[/COLOR]
 http://www.iptvsaga.com/play/tv3/0134.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="MEGA.png",MEGA 2
