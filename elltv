@@ -43,6 +43,8 @@ http://over.ddns.net:65206/
 http://over.ddns.net:65207/
 #EXTINF:0070 tvg-id="DiscoveryID.gr" group-title="Greek" tvg-logo="",[COLOR orange]IDX[/COLOR]
 http://over.ddns.net:65208/
+#EXTINF:0070 tvg-id="NovaCinema1.gr" group-title="Greek" tvg-logo="",[COLOR orange]NOVACINEMA1[/COLOR]
+http://38.140.63.250:1935/gr-live/filmnet.sdp/playlist.m3u8
 #EXTINF:0070 tvg-id="Macedonia.gr" group-title="Greek" tvg-logo="MACEDONIA TV.png",[COLOR orange]Makedonia TV[/COLOR]
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="TV 100.png",[COLOR orange]TV-100[/COLOR]
