@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0070 tvg-id="EPT1.gr" group-title="Greek" tvg-logo="ERT1.png",[COLOR orange]ERT1[/COLOR]
-http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
+http://over.ddns.net:65101
 #EXTINF:0070 tvg-id="EPT2.gr" group-title="Greek" tvg-logo="ERT2.png",[COLOR orange]ERT2[/COLOR]
 http://over.ddns.net:65102
 #EXTINF:0070 tvg-id="EPT3.gr" group-title="Greek" tvg-logo="ERT3.png",[COLOR orange]ERT3[/COLOR]
