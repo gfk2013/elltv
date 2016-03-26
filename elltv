@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:0070 tvg-id="EPT1.gr" group-title="Greek" tvg-logo="ERT1.png",[COLOR orange]ERT1[/COLOR]
 http://over.ddns.net:65101
-#EXTINF:0070 tvg-id="EPT1.gr" group-title="Greek" tvg-logo="ERT1.png",ERT1 (2)
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ERT1.png",ERT1 (2)
 http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
 #EXTINF:0070 tvg-id="EPT2.gr" group-title="Greek" tvg-logo="ERT2.png",[COLOR orange]ERT2[/COLOR]
 http://over.ddns.net:65102
-#EXTINF:0070 tvg-id="EPT2.gr" group-title="Greek" tvg-logo="ERT2.png",ERT2 (2)
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ERT2.png",ERT2 (2)
 http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
 #EXTINF:0070 tvg-id="EPT3.gr" group-title="Greek" tvg-logo="ERT3.png",[COLOR orange]ERT3[/COLOR]
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
