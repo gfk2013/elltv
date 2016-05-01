@@ -148,3 +148,180 @@ mmsh://radiofeeds1.mediabox.gr/startv
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="VIMA TV.png",[COLOR orange]BHMA TV[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
 
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",PROTO PROGRAMMA 91.6
+http://nerit1radio-lh.akamaihd.net/i/proto_1@123327/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",DEUTERO PROGRAMMA 102.9
+http://nerit2radio-lh.akamaihd.net/i/deftero_1@123328/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",TRITO PROGRAMMA 90.9
+http://nerit3radio-lh.akamaihd.net/i/trito_1@123329/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERA SPORT 101.8
+http://erasport-lh.akamaihd.net/i/live_1@326375/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",KOSMOS 93.6
+http://nerit4radio-lh.akamaihd.net/i/kosmos_1@123354/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",I FONI TIS ELLADAS 7475
+http://voiceofgreece-lh.akamaihd.net/i/live_1@326376/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERT3 958 95.8
+http://958fm-lh.akamaihd.net/i/live_1@359477/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERT3 A PROGRAMMA 102
+http://neritmakedonia-lh.akamaihd.net/i/radiomakedonia_1@125579/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERTOPEN 106.7
+http://radio.ertopen.com/erasport
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERA SERRWN
+http://ert_serres-lh.akamaihd.net/i/ert_serres_1@334656/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERA BOLOY
+http://ert_volos-lh.akamaihd.net/i/ert_volos_1@334604/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",OTE SPORT FM 94.6
+http://sportfm.live24.gr/sportfm7712
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",SPORT24 103.3
+http://sport24radio.live24.gr/sport24radio
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",REAL FM 97.8
+http://netradio.live24.gr/realfm
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",LAIKOS FM 87.6
+http://ice.streamcloud.mediacdn.com/laikos876
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",SOHOS FM 88.7
+http://s5.onweb.gr:8418/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RAINBOW 89
+http://80.86.85.86:8006/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ARENA SPORTS 89.4
+http://arenafm.gr:45054/;.mp3
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",IMAGINE 89.7
+http://imagine.1stepstream.com:8000/live
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",904 ARISTERA STA FM 90.4
+http://icecast.902.gr:8000/904
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ZOO RADIO 90.8
+http://s10.voscast.com:9940/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",V FM 91.1
+http://stream.myip.gr:8054/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",OLA FM 91.4
+http://ola.isolservers.com:8300/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RSO 91.7
+http://rso.isolservers.com:8200/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIO EKFRASI 92.4
+http://sc.greekstream.net:4012/;listen.pls
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",STO KOKKINO THESS 93.4
+http://ice.streamcloud.mediacdn.com/stokokkinothes
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIO THESS 94.5
+http://eu7.fastcast4u.com:6156/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",EROTIKOS FM 94.8
+http://eu7.fastcast4u.com:6154/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",COSMORADIO 95.1
+http://sc5.greekstream.net:5000/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",METROPOLIS 95.5
+http://s10.voscast.com:9934/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",NEXT 96.1
+http://37.187.79.153:5262/stream
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ALPHA THESS 96.5
+http://46.4.121.138:8888/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",VELVET 96.8
+http://s10.voscast.com:9942/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",NORTH 98
+http://eco.onestreaming.com:8382/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",PANORAMA 98.4
+http://netradio.live24.gr/panorama984
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIO 1 99
+http://eco.onestreaming.com:8336/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIO EKRIKSI 99.7
+http://sc.greekstream.net:4006/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",FM 100 100
+http://178.62.176.153:8000/stream
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",REPUBLIC RADIO 100.3
+http://s10.voscast.com:9878/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",DIMOTIKO RADIOFWNO THESS 100.6
+http://178.62.176.153:8002/stream
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIO MYGDONIA 100.6
+http://62.38.111.94:8000/radio.mp3
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIO LELEVWSE 101.3
+http://213.239.206.179:9652/;?1441893382001.mp3
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",KALAMARIA FM 101.7
+http://www.kalamariafm.gr/kalamariafm_mp3.asx
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",PLUS RADIO 102.6
+http://85.25.214.240:8120/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",MORE 103
+http://85.25.214.240:8140/;
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",STUDIO 3 103.5
+http://s1.onweb.gr:8408/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",FOCUS 103.6
+http://focus.greekstream.net/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIOKYMATA 104.4
+http://s1.onweb.gr:8812/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ROCK RADIO 104.7
+http://rockradio.gr:1111/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIO DETH 104.9
+http://s3.onweb.gr:8436/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",1055 ROCK 105.5
+http://radio.onweb.gr:8078/;listen.pls
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",XRWMA 105.8
+http://hroma1058thess.live24.gr/hroma1058thess
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",CITY INTERNATIONAL 106.1
+http://50.7.99.155:7519/stream/1/
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ORTHODOXI PAROYSIA 106.8
+http://188.226.161.133:8008/stream
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",REAL FM THESS 107.1
+http://realfm.megabyte.gr:8999/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",LIBERO FM 107.4
+http://eco.onestreaming.com:8081/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",SUNSHINE 107.7
+http://50.7.173.162:8204/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",1431 AM 1431
+http://155.207.18.114:8000/1431med
+
+
+
+
