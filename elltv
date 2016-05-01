@@ -49,6 +49,8 @@ http://www.iptvsaga.com/play/tv3/0141.m3u8
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 #EXTINF:0070 tvg-id="MADTV.gr" group-title="Greek" tvg-logo="MAD TV.png",[COLOR orange]Mad TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0139.m3u8
+#EXTINF:-1, tvg-logo="http://i.imgur.com/njCyV7W.jpg", group-title="MOYSIKA", [COLOR yellow][B] JayzeeHD[/B][/COLOR]
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ELLINIKOS FM TV[/COLOR]
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="OMEGA TV.png",[COLOR orange]Omega[/COLOR]
@@ -158,9 +160,6 @@ http://nerit2radio-lh.akamaihd.net/i/deftero_1@123328/master.m3u8
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",TRITO PROGRAMMA 90.9
 http://nerit3radio-lh.akamaihd.net/i/trito_1@123329/master.m3u8
 
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERA SPORT 101.8
-http://erasport-lh.akamaihd.net/i/live_1@326375/master.m3u8
-
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",KOSMOS 93.6
 http://nerit4radio-lh.akamaihd.net/i/kosmos_1@123354/master.m3u8
 
@@ -181,6 +180,9 @@ http://ert_serres-lh.akamaihd.net/i/ert_serres_1@334656/master.m3u8
 
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERA BOLOY
 http://ert_volos-lh.akamaihd.net/i/ert_volos_1@334604/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERA SPORT 101.8
+http://erasport-lh.akamaihd.net/i/live_1@326375/master.m3u8
 
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",OTE SPORT FM 94.6
 http://sportfm.live24.gr/sportfm7712
@@ -321,6 +323,28 @@ http://50.7.173.162:8204/;
 
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",1431 AM 1431
 http://155.207.18.114:8000/1431med
+
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",DROMOS FM 89.8
+http://dromos898.live24.gr/dromos898
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Galaxy 92 Athens
+http://galaxy.live24.gr/galaxy9292
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",KISS FM 92.9
+http://kissfm.live24.gr/kiss2111
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ELLHINIKOS 93.2
+http://orange.live24.gr/orange9320
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RYTHMOS FM 94.9
+http://rythmos1-lh.akamaihd.net/i/live_1@334542/master.m3u8
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ATHENS DJ 95.2
+http://rdj-lh.akamaihd.net/i/live_1@324558/master.m3u8
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",LOVE RADIO 97.5
+http://loveradio.live24.gr/loveradio-1000
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ALPHA 98.9
+http://194.219.46.2:8080/live
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",BHMA FM 99.5
+http://streaming.dol.gr/vimafm
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",DIESI 101.3
+http://diesi.live24.gr/diesi1013
 
 
 
