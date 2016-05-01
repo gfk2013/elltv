@@ -19,7 +19,7 @@ http://over.ddns.net:65106/
 http://over.ddns.net:65110/
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="MEGA.png",MEGA (2)
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
-#EXTINF:0070 tvg-id="alpha.gr" group-title="Greek" tvg-logo="ALPHA.png",[COLOR orange]ALPHA[/COLOR]
+#EXTINF:0070 tvg-id="alpha.gr" group-title="Greek" tvg-logo="http://over.ddns.net/channels/android/240/alpha.png",[COLOR orange]ALPHA[/COLOR]
 http://over.ddns.net:65105/
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ALPHA.png",ALPHA (2)
 http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
@@ -29,8 +29,6 @@ http://over.ddns.net:65111/
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0070 tvg-id="Skai.gr" group-title="Greek"  tvg-logo=http://over.ddns.net/channels/android/240/skai.png,[COLOR orange]SKAI[/COLOR]
 http://over.ddns.net:65112/
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="SKAI.png",SKAI (2)
-http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
 #EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo=http://over.ddns.net/channels/android/240/epsilon.png,[COLOR orange]E TV[/COLOR]
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="EURONEWS.png",[COLOR orange]EURONEWS[/COLOR]
@@ -108,7 +106,7 @@ http://5.196.92.57/webtv/medium.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]WZRA[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0070 tvg-id="RikSat.gr" group-title="Greek" tvg-logo="RIK SAT.png",[COLOR orange]RIK SAT[/COLOR]
+#EXTINF:0070 tvg-id="RikSat.gr" group-title="Greek" tvg-logo="http://over.ddns.net/channels/android/240/rik1.png",RIK SAT
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/rik1.png , PIK1
 http://over.ddns.net:65113/
@@ -126,7 +124,7 @@ http://over.ddns.net:65118/
 http://over.ddns.net:65119/
 #EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/plus.png , PLUS
 http://over.ddns.net:65120/
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="SIGMA.png",[COLOR orange]SIGMA CY[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://over.ddns.net/channels/android/240/sigma.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]TOP CHANNEL[/COLOR]
