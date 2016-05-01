@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:0070 tvg-id="EPT1.gr" group-title="Greek" tvg-logo="ERT1.png",[COLOR orange]ERT1[/COLOR]
+#EXTINF:0070 tvg-id="EPT1.gr" group-title="Greek" tvg-logo=http://over.ddns.net/channels/android/240/ert1.png,[COLOR orange]ERT1[/COLOR]
 http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ERT1.png",ERT1 (2)
 http://over.ddns.net:65101
-#EXTINF:0070 tvg-id="EPT2.gr" group-title="Greek" tvg-logo="ERT2.png",[COLOR orange]ERT2[/COLOR]
+#EXTINF:0070 tvg-id="EPT2.gr" group-title="Greek" tvg-logo=http://over.ddns.net/channels/android/240/ert2.png,[COLOR orange]ERT2[/COLOR]
 http://ert2world-lh.akamaihd.net/i/live_1@367166/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ERT2.png",ERT2 (2)
 http://over.ddns.net:65102
-#EXTINF:0070 tvg-id="EPT3.gr" group-title="Greek" tvg-logo="ERT3.png",[COLOR orange]ERT3[/COLOR]
+#EXTINF:0070 tvg-id="EPT3.gr" group-title="Greek"  tvg-logo=http://over.ddns.net/channels/android/240/ert3.png,[COLOR orange]ERT3[/COLOR]
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ERT3.png",ERT3 (2)
 http://over.ddns.net:65103
-#EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="ANT1.png",[COLOR orange]ANT1[/COLOR]
+#EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo=http://over.ddns.net/channels/android/240/ant1new.png,[COLOR orange]ANT1[/COLOR]
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ANT1.png",ANT1 (2)
 http://over.ddns.net:65106/
-#EXTINF:0070 tvg-id="mega.gr" group-title="Greek" tvg-logo="MEGA.png",[COLOR orange]MEGA[/COLOR]
+#EXTINF:0070 tvg-id="mega.gr" group-title="Greek" tvg-logo=http://over.ddns.net/channels/android/240/meganew.png,[COLOR orange]MEGA[/COLOR]
 http://over.ddns.net:65110/
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="MEGA.png",MEGA (2)
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
@@ -23,26 +23,28 @@ http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 http://over.ddns.net:65105/
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ALPHA.png",ALPHA (2)
 http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
-#EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo="STAR.png",[COLOR orange]STAR[/COLOR]
+#EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo=http://over.ddns.net/channels/android/240/star.png,[COLOR orange]STAR[/COLOR]
 http://over.ddns.net:65111/
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="STAR.png",STAR (2)
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
-#EXTINF:0070 tvg-id="Skai.gr" group-title="Greek" tvg-logo="SKAI.png",[COLOR orange]SKAI[/COLOR]
+#EXTINF:0070 tvg-id="Skai.gr" group-title="Greek"  tvg-logo=http://over.ddns.net/channels/android/240/skai.png,[COLOR orange]SKAI[/COLOR]
 http://over.ddns.net:65112/
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="SKAI.png",SKAI (2)
 http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
-#EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo="E TV.png",[COLOR orange]E TV[/COLOR]
+#EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo=http://over.ddns.net/channels/android/240/epsilon.png,[COLOR orange]E TV[/COLOR]
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="EURONEWS.png",[COLOR orange]EURONEWS[/COLOR]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
-#EXTINF:0070 tvg-id="Macedonia.gr" group-title="Greek" tvg-logo="MACEDONIA TV.png",[COLOR orange]Makedonia TV[/COLOR]
+#EXTINF:0070 tvg-id="Macedonia.gr" group-title="Greek" tvg-logo=http://over.ddns.net/channels/android/240/macedonia.png,[COLOR orange]Makedonia TV[/COLOR]
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="TV 100.png",[COLOR orange]TV-100[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/H7iFPO1.png",[COLOR orange]TV-100[/COLOR]
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="DIKTYO TV.png",[COLOR orange]DIKTYO[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/iOv12tV.png",[COLOR orange]DIKTYO[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
-#EXTINF:0070 tvg-id="vouli.gr" group-title="Greek" tvg-logo="BOYLH TV.png",[COLOR orange]VOULI[/COLOR]
+#EXTINF:0070 tvg-id="vouli.gr" group-title="Greek" tvg-logo=http://over.ddns.net/channels/android/240/vouli.png,[COLOR orange]VOULI[/COLOR]
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="BOYLH TV.png",VOULI (2)
+ http://over.ddns.net:65104
 #EXTINF:0070 tvg-id="Kontra.gr" group-title="Greek" tvg-logo="KONTRA CHANNEL.png",[COLOR orange]Kontra TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0141.m3u8
 #EXTINF:0070 tvg-id="Extra.gr" group-title="Greek" tvg-logo="EXTRA TV.png",[COLOR orange]Extra Channel[/COLOR]
@@ -101,9 +103,9 @@ rtmp://94.23.218.186/samiaki/samiaki
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="LYXNOS TV.png",[COLOR orange]LYCHNOS[/COLOR]
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:0,THEMA TV
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]THEMA TV[/COLOR]
 http://5.196.92.57/webtv/medium.m3u8
-#EXTINF:0,WZRA
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]WZRA[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0070 tvg-id="RikSat.gr" group-title="Greek" tvg-logo="RIK SAT.png",[COLOR orange]RIK SAT[/COLOR]
