@@ -49,7 +49,7 @@ http://www.iptvsaga.com/play/tv3/0141.m3u8
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 #EXTINF:0070 tvg-id="MADTV.gr" group-title="Greek" tvg-logo="MAD TV.png",[COLOR orange]Mad TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0139.m3u8
-#EXTINF:-1, tvg-logo="http://i.imgur.com/njCyV7W.jpg", group-title="MOYSIKA", [COLOR yellow][B] JayzeeHD[/B][/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/njCyV7W.jpg",[COLOR orange]JayzeeHD[/COLOR]
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ELLINIKOS FM TV[/COLOR]
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
