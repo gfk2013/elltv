@@ -5,7 +5,7 @@ http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
 http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
 #EXTINF:0070 tvg-id="EPT3.gr" group-title="Greek"  tvg-logo=http://i.imgur.com/0Oz56bA.png,[COLOR orange]EPT3[/COLOR]
 http://over.ddns.net:65103
-#EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo=http://i.imgur.com/Pk6b6et.png,[COLOR orange]ANT1[/COLOR]
+#EXTINF:0070 tvg-id="ANT1.gr" group-title="Greek" tvg-logo=http://i.imgur.com/Pk6b6et.png,[COLOR orange]ANT1[/COLOR]
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ANT1.png",[COLOR deepskyblue]ANT1 (2)[/COLOR]
 http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
@@ -35,9 +35,7 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/H7iFPO1.png",[COLOR orange]TV-100[/COLOR]
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
-#EXTINF:0070 tvg-id="vouli.gr" group-title="Greek" tvg-logo=http://over.ddns.net/channels/android/240/vouli.png,[COLOR orange]BOYLH[/COLOR]
-http://over.ddns.net:65104
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="BOYLH TV.png",[COLOR deepskyblue]BOYLH (2)[/COLOR]
+#EXTINF:0070 tvg-id="vouli.gr" group-title="Greek" tvg-logo=http://i.imgur.com/N1NbcYV.png,[COLOR orange]BOYLH[/COLOR]
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0070 tvg-id="Kontra.gr" group-title="Greek" tvg-logo="http://i.imgur.com/GlLp3Ic.jpg",[COLOR orange]Kontra TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0141.m3u8
