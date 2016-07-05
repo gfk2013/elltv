@@ -41,7 +41,7 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 http://www.iptvsaga.com/play/tv3/0141.m3u8
 #EXTINF:0070 tvg-id="Extra.gr" group-title="Greek" tvg-logo="http://i.imgur.com/fmrqBcI.jpg",[COLOR orange]Extra Channel[/COLOR]
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
-#EXTINF:0070 tvg-id="MADTV.gr" group-title="Greek" tvg-logo="MAD TV.png",[COLOR orange]Mad TV[/COLOR]
+#EXTINF:0070 tvg-id="MADTV.gr" group-title="Greek" tvg-logo="http://i.imgur.com/imgHmLP.png",[COLOR orange]Mad TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0139.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/njCyV7W.jpg",[COLOR orange]JayzeeHD[/COLOR]
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
@@ -95,18 +95,18 @@ rtmp://94.23.218.186/samiaki/samiaki
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/Glp0YiN.png",[COLOR orange]LYCHNOS[/COLOR]
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]TOP CHANNEL[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/MVrLjre.png",[COLOR orange]TOP CHANNEL[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
-#EXTINF:0070 tvg-id="4E.gr" group-title="Greek" tvg-logo="TV AIGAIO.png",[COLOR orange]AIGAIOTV[/COLOR]
+#EXTINF:0070 tvg-id="4E.gr" group-title="Greek" tvg-logo="http://i.imgur.com/jYdwvZB.png",[COLOR orange]AIGAIOTV[/COLOR]
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="THRAKI NET.png",[COLOR orange]Thrakinet[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/WXlf12i.png",[COLOR orange]Thrakinet[/COLOR]
 http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="VIMA TV.png",[COLOR orange]BHMA TV[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0070 tvg-id="RikSat.gr" group-title="Greek" tvg-logo="http://over.ddns.net/channels/android/240/rik1.png",RIK SAT
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://over.ddns.net/channels/android/240/sigma.png",SIGMA CY
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 
 #EXTINF:0070 tvg-id="APT.gr" group-title="Greek" tvg-logo="http://i.imgur.com/Comxiil.png",[COLOR orange]APT[/COLOR]
