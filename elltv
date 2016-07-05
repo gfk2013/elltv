@@ -53,10 +53,6 @@ http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/Ellin
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/7o98X3F.png",[COLOR orange]Omega[/COLOR]
 http://www.iptvsaga.com/play/tv3/0149.m3u8
-#EXTINF:0070 tvg-id="APT.gr" group-title="Greek" tvg-logo="http://i.imgur.com/Comxiil.png",[COLOR orange]APT[/COLOR]
-http://over.ddns.net:65107/
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/CzxGu1G.png",[COLOR orange]Blue Sky[/COLOR]
-http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/xTy0Qww.gif",[COLOR orange]SBC[/COLOR]
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/DFeXxxO.png",[COLOR orange]Astra TV[/COLOR]
@@ -71,8 +67,6 @@ http://www.iptvsaga.com/play/tv3/0138.m3u8
 http://www.iptvsaga.com/play/tv3/0140.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/nSIaZhH.png",[COLOR orange]CRETA TV[/COLOR]
 http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/aSbiRC1.png",[COLOR orange]BERGINA[/COLOR]
-http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/nAzfWx5.png",[COLOR orange]TRT TV[/COLOR]
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0070 tvg-id="4E.gr" group-title="Greek" tvg-logo="http://i.imgur.com/yMPAiaq.png",[COLOR orange]4E[/COLOR]
@@ -101,48 +95,41 @@ rtmp://94.23.218.186/samiaki/samiaki
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/Glp0YiN.png",[COLOR orange]LYCHNOS[/COLOR]
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/uet8P2n.jpg",[COLOR orange]WZRA[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]TOP CHANNEL[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
+#EXTINF:0070 tvg-id="4E.gr" group-title="Greek" tvg-logo="TV AIGAIO.png",[COLOR orange]AIGAIOTV[/COLOR]
+http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="THRAKI NET.png",[COLOR orange]Thrakinet[/COLOR]
+http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="VIMA TV.png",[COLOR orange]BHMA TV[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0070 tvg-id="RikSat.gr" group-title="Greek" tvg-logo="http://over.ddns.net/channels/android/240/rik1.png",RIK SAT
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
-#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/rik1.png , PIK1
-http://over.ddns.net:65113/
-#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/rik2.png , PIK2
-http://over.ddns.net:65114/
-#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/ant1new.png , ANT1 CY
-http://over.ddns.net:65116/
-#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/meganew.png , MEGA CY
-http://over.ddns.net:65117/
-#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/capital.png , CAPITAL CY
-http://over.ddns.net:65118/
-#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/extra.png , EXTRA CY
-http://over.ddns.net:65119/
-#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/plus.png , PLUS CY
-http://over.ddns.net:65120/
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://over.ddns.net/channels/android/240/sigma.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]TOP CHANNEL[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
+#EXTINF:0070 tvg-id="APT.gr" group-title="Greek" tvg-logo="http://i.imgur.com/Comxiil.png",[COLOR orange]APT[/COLOR]
+http://over.ddns.net:65107/
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/uet8P2n.jpg",[COLOR orange]WZRA[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/aSbiRC1.png",[COLOR orange]BERGINA[/COLOR]
+http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/CzxGu1G.png",[COLOR orange]Blue Sky[/COLOR]
+http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]PONTOS[/COLOR]
 http://xdiontvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0070 tvg-id="IPIROSTV.gr" group-title="Greek" tvg-logo="EPIRUS TV1.png",[COLOR orange]EPIRUS TV1[/COLOR]
 http://www.iptvsaga.com/play/tv3/0150.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="EUROPE ONE.png",[COLOR orange]EUROPE ONE[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
-#EXTINF:0070 tvg-id="4E.gr" group-title="Greek" tvg-logo="TV AIGAIO.png",[COLOR orange]AIGAIOTV[/COLOR]
-http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0070 tvg-id="4E.gr" group-title="Greek" tvg-logo="LEPANTO.png",[COLOR orange]LEPANTO[/COLOR]
 http://78.129.184.15:33102/streaming/stream/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Makeleio WEB TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0151.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="THRAKI NET.png",[COLOR orange]Thrakinet[/COLOR]
-http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]STAR B.E.[/COLOR]
 mmsh://radiofeeds1.mediabox.gr/startv
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="VIMA TV.png",[COLOR orange]BHMA TV[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
+
 
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",REAL FM 97.8
 http://netradio.live24.gr/realfm
