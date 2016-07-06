@@ -32,9 +32,9 @@ http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="STAR.png",[COLOR deepskyblue]STAR (3)[/COLOR]
 http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
 #EXTINF:0070 tvg-id="Skai.gr" group-title="Greek"  tvg-logo=http://i.imgur.com/xYOQeIj.png,[COLOR orange]ΣKAI[/COLOR]
-plugin://plugin.video.youtube/play/?video_id=v0a6ZLsGb6Q
-#EXTINF:0070 tvg-id="" group-title="Greek"  tvg-logo=SKAI.png,[COLOR deepskyblue]ΣKAI (2)[/COLOR]
 http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek"  tvg-logo=SKAI.png,[COLOR deepskyblue]ΣKAI (2)[/COLOR]
+plugin://plugin.video.youtube/play/?video_id=v0a6ZLsGb6Q
 #EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo=http://i.imgur.com/fojL2bG.png,[COLOR orange]E TV[/COLOR]
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="EURONEWS.png",[COLOR orange]EURONEWS[/COLOR]
