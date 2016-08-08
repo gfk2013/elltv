@@ -6,10 +6,8 @@ http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo=http:EPT1.png,[COLOR deepskyblue]EPT1 (3)[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0
 #EXTINF:0070 tvg-id="EPT2.gr" group-title="Greek" tvg-logo=http://i.imgur.com/gCFl7VI.png,[COLOR orange]EPT2[/COLOR]
-http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream3.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo=EPT2.png,[COLOR deepskyblue]EPT2 (2)[/COLOR]
 http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo=EPT2.png,[COLOR deepskyblue]EPT2 (3)[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo=EPT2.png,[COLOR deepskyblue]EPT2 (2)[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI
 #EXTINF:0070 tvg-id="EPT3.gr" group-title="Greek"  tvg-logo=http://i.imgur.com/0Oz56bA.png,[COLOR orange]EPT3[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=TAPQISON4YM
@@ -34,9 +32,9 @@ http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
 #EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo=http://i.imgur.com/30uLkyA.png,[COLOR orange]STAR[/COLOR]
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="STAR.png",[COLOR deepskyblue]STAR (2)[/COLOR]
-http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="STAR.png",[COLOR deepskyblue]STAR (3)[/COLOR]
 http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="STAR.png",[COLOR deepskyblue]STAR (3)[/COLOR]
+http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0070 tvg-id="Skai.gr" group-title="Greek"  tvg-logo=http://i.imgur.com/xYOQeIj.png,[COLOR orange]ΣKAI[/COLOR]
 http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek"  tvg-logo=SKAI.png,[COLOR deepskyblue]ΣKAI (2)[/COLOR]
