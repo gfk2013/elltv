@@ -31,7 +31,7 @@ plugin://plugin.video.skai.gr/play/?action=live
 http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
 #EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo=http://i.imgur.com/fojL2bG.png,[COLOR orange]E TV[/COLOR]
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="EURONEWS.png",[COLOR orange]EURONEWS[/COLOR]
+#EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="http://i.imgur.com/OaQ57Pu.png",[COLOR orange]EURONEWS[/COLOR]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/7TV9bZY.png",[COLOR orange]PALMOS CINEMA TV[/COLOR]
 http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
@@ -115,7 +115,7 @@ http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/WXlf12i.png",[COLOR orange]Thrakinet[/COLOR]
 http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="VIMA TV.png",[COLOR orange]BHMA TV[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/MFRF94w.png",[COLOR orange]BHMA TV[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/IJ9CPOF.png",[COLOR orange]STAR K.E.[/COLOR]
 http://stream-11.vty.dailymotion.com/02/dm/1/xqjey2/live.isml/events(live-1473171523)/live-audio=128000-video=1200000.m3u8
@@ -173,7 +173,7 @@ http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
 http://xdiontvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="EUROPE ONE.png",[COLOR orange]EUROPE ONE[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Makeleio WEB TV[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/QUYJeJ5.png",[COLOR orange]Makeleio WEB TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0151.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]STAR B.E.[/COLOR]
 mmsh://radiofeeds1.mediabox.gr/startv
