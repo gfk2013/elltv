@@ -143,7 +143,7 @@ rtmp://176.9.123.140:1935/santorini/santorini
 http://stream-07.vty.dailymotion.com/44/dm/1/x4hnjh6/live.isml/events(live-1473157072)/live-audio=128000-video=2000000.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://s1.dmcdn.net/Lpj8y/60x60-ioF.jpg",[COLOR orange]EXTRA KAVANTZA[/COLOR]
 http://stream-07.vty.dailymotion.com/03/dm/1/x418tkw/live.isml/events(live-1472820390)/live-audio=64000-video=400000.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek"  tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/APEIRO%20TV.png", [COLOR orange]APEIRO TV/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek"  tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/APEIRO%20TV.png", [COLOR orange]APEIRO TV[/COLOR]
 http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek"  tvg-logo="http://i.imgur.com/GdgekUL.png",[COLOR orange]TV FILOPOLI[/COLOR]
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
@@ -276,4 +276,3 @@ http://194.219.46.2:8080/live
 http://streaming.dol.gr/vimafm
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",DIESI 101.3
 http://diesi.live24.gr/diesi1013
-
