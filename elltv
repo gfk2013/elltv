@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow][B]Κάποια κανάλια παίζουν μόνο από το Playlist Loader addon[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow][B]από το Playlist Loader addon παίζουν όλα τα κανάλια[/B][/COLOR]
 http://0.0.0.0:12345
 #EXTINF:0070 tvg-id="EPT1.gr" group-title="Greek" tvg-logo=http://i.imgur.com/nbS3IKQ.png,[COLOR orange]EPT1[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0
