@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow][B]από το Playlist Loader addon παίζουν όλα τα κανάλια[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow][B]με το Playlist Loader addon παίζουν όλα τα κανάλια[/B][/COLOR]
 http://0.0.0.0:12345
 #EXTINF:0070 tvg-id="EPT1.gr" group-title="Greek" tvg-logo="http://i.imgur.com/nbS3IKQ.png",[COLOR orange]EPT1[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0
@@ -182,7 +182,7 @@ mmsh://radiofeeds1.mediabox.gr/startv
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/lF7tUV8.png",[COLOR orange]MANA ELLADA TV[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS", [COLOR yellow][B]ΡΑΔΙΟΦΩΝΑ[/B][/COLOR]
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS", [COLOR yellow][B]ΡΑΔΙΟΦΩΝΙΚΟΙ ΣΤΑΘΜΟΙ[/B][/COLOR]
 http://0.0.0.0:12345
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",REAL FM 97.8
 http://netradio.live24.gr/realfm
