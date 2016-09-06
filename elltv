@@ -10,15 +10,15 @@ plugin://plugin.video.youtube/play/?video_id=nxebm_-DkF0
 #EXTINF:0070 tvg-id="ANT1.gr" group-title="Greek" tvg-logo=http://i.imgur.com/Pk6b6et.png,[COLOR orange]ANT1[/COLOR]
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ANT1.png",[COLOR deepskyblue]ANT1 (2)[/COLOR]
-http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
+http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
 #EXTINF:0070 tvg-id="mega.gr" group-title="Greek" tvg-logo=http://i.imgur.com/tSNcPRn.gif,[COLOR orange]MEGA[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="MEGA.png",[COLOR deepskyblue]MEGA (2)[/COLOR]
-http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
 #EXTINF:0070 tvg-id="alpha.gr" group-title="Greek" tvg-logo="http://i.imgur.com/UzJNech.png",[COLOR orange]ALPHA[/COLOR]
 http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
 #EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo=http://i.imgur.com/30uLkyA.png,[COLOR orange]STAR[/COLOR]
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="STAR.png",[COLOR deepskyblue]STAR (2)[/COLOR]
+http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0070 tvg-id="Skai.gr" group-title="Greek"  tvg-logo=http://i.imgur.com/xYOQeIj.png,[COLOR orange]ΣKAI[/COLOR]
 plugin://plugin.video.skai.gr/play/?action=live
 #EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo=http://i.imgur.com/fojL2bG.png,[COLOR orange]E TV[/COLOR]
