@@ -131,7 +131,8 @@ http://85.25.214.240:8120/;
 http://sc.greekstream.net:4012/;listen.pls
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIO THESS 94.5
 http://eu7.fastcast4u.com:6156/;
-
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",STO KOKKINO THESS 93.4
+http://ice.streamcloud.mediacdn.com/stokokkinothes
 
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERTOPEN 106.7
 http://radio.ertopen.com/erasport
@@ -145,16 +146,12 @@ http://ice.streamcloud.mediacdn.com/laikos876
 http://s5.onweb.gr:8418/;
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RAINBOW 89
 http://80.86.85.86:8006/;
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",IMAGINE 89.7
-http://imagine.1stepstream.com:8000/live
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",904 ARISTERA STA FM 90.4
 http://icecast.902.gr:8000/904
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ZOO RADIO 90.8
 http://s10.voscast.com:9940/;
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",OLA FM 91.4
 http://ola.isolservers.com:8300/;
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",STO KOKKINO THESS 93.4
-http://ice.streamcloud.mediacdn.com/stokokkinothes
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",EROTIKOS FM 94.8
 http://eu7.fastcast4u.com:6154/;
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",COSMORADIO 95.1
@@ -165,12 +162,8 @@ http://37.187.79.153:5262/stream
 http://46.4.121.138:8888/;
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",VELVET 96.8
 http://s10.voscast.com:9942/;
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",PANORAMA 98.4
-http://netradio.live24.gr/panorama984
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIO 1 99
 http://eco.onestreaming.com:8336/;
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIO EKRIKSI 99.7
-http://sc.greekstream.net:4006/;
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",FM 100 100
 http://178.62.176.153:8000/stream
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",REPUBLIC RADIO 100.3
@@ -201,8 +194,6 @@ http://50.7.99.155:7519/stream/1/
 http://realfm.megabyte.gr:8999/;
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",LIBERO FM 107.4
 http://eco.onestreaming.com:8081/;
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",SUNSHINE 107.7
-http://50.7.173.162:8204/;
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",1431 AM 1431
 http://155.207.18.114:8000/1431med
 
