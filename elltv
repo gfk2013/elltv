@@ -39,8 +39,6 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 #EXTINF:0070 tvg-id="Macedonia.gr" group-title="Greek" tvg-logo="http://i.imgur.com/wCnAUot.png",[COLOR orange]Makedonia TV[/COLOR]
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/H7iFPO1.png",[COLOR orange]TV-100[/COLOR]
-http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
 #EXTINF:0070 tvg-id="EPTWORLD.gr" group-title="Greek" tvg-logo="http://i.imgur.com/ZrD6GYb.png",[COLOR orange]EPT WORLD[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=rdlulSBQPp8
 #EXTINF:0070 tvg-id="vouli.gr" group-title="Greek" tvg-logo="http://i.imgur.com/N1NbcYV.png",[COLOR orange]BOYLH[/COLOR]
@@ -61,6 +59,8 @@ http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/Ellin
 rtmp://live.streams.ovh/cannali/cannali
 #EXTINF:0070 tvg-id="TILEMOUSIKI" group-title="Greek" tvg-logo="http://i.imgur.com/piGhf3m.png",[COLOR orange]TILEMOUSIKI[/COLOR]
 mmsh://wpso.com:200/music
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/H7iFPO1.png",[COLOR orange]TV-100[/COLOR]
+http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
 #EXTINF:0070 tvg-id="APT.gr" group-title="Greek" tvg-logo="http://i.imgur.com/Comxiil.png",[COLOR orange]APT[/COLOR]
 http://stream-04.vty.dailymotion.com/08/dm/1/x4pvzft/live.isml/events(live-1473130816)/live-audio=128000-video=700000.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/iOv12tV.png",[COLOR orange]DIKTYO[/COLOR]
