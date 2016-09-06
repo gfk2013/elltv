@@ -3,10 +3,16 @@
 http://0.0.0.0:12345
 #EXTINF:0070 tvg-id="EPT1.gr" group-title="Greek" tvg-logo=http://i.imgur.com/nbS3IKQ.png,[COLOR orange]EPT1[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="EPT1.png",[COLOR deepskyblue]EPT1 (2)[/COLOR]
+plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4
 #EXTINF:0070 tvg-id="EPT2.gr" group-title="Greek" tvg-logo=http://i.imgur.com/gCFl7VI.png,[COLOR orange]EPT2[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="EPT2.png",[COLOR deepskyblue]EPT2 (2)[/COLOR]
+plugin://plugin.video.youtube/play/?video_id=f7ISZRsgztY
 #EXTINF:0070 tvg-id="EPT3.gr" group-title="Greek"  tvg-logo=http://i.imgur.com/0Oz56bA.png,[COLOR orange]EPT3[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=nxebm_-DkF0
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="EPT3.png",[COLOR deepskyblue]EPT3 (2)[/COLOR]
+plugin://plugin.video.youtube/play/?video_id=NdrihJS8-5g
 #EXTINF:0070 tvg-id="ANT1.gr" group-title="Greek" tvg-logo=http://i.imgur.com/Pk6b6et.png,[COLOR orange]ANT1[/COLOR]
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ANT1.png",[COLOR deepskyblue]ANT1 (2)[/COLOR]
@@ -21,18 +27,26 @@ http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0070 tvg-id="Skai.gr" group-title="Greek"  tvg-logo=http://i.imgur.com/xYOQeIj.png,[COLOR orange]ΣKAI[/COLOR]
 plugin://plugin.video.skai.gr/play/?action=live
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="SKAI.png",[COLOR deepskyblue]SKAI (2)[/COLOR]
+http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
 #EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo=http://i.imgur.com/fojL2bG.png,[COLOR orange]E TV[/COLOR]
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="EURONEWS.png",[COLOR orange]EURONEWS[/COLOR]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/7TV9bZY.png",[COLOR orange]PALMOS CINEMA TV[/COLOR]
+http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 #EXTINF:0070 tvg-id="Macedonia.gr" group-title="Greek" tvg-logo=http://i.imgur.com/wCnAUot.png,[COLOR orange]Makedonia TV[/COLOR]
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/H7iFPO1.png",[COLOR orange]TV-100[/COLOR]
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
+#EXTINF:0070 tvg-id="EPTWORLD.gr" group-title="Greek" tvg-logo=http://i.imgur.com/ZrD6GYb.png,[COLOR orange]EPT WORLD[/COLOR]
+plugin://plugin.video.youtube/play/?video_id=rdlulSBQPp8
 #EXTINF:0070 tvg-id="vouli.gr" group-title="Greek" tvg-logo=http://i.imgur.com/N1NbcYV.png,[COLOR orange]BOYLH[/COLOR]
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0070 tvg-id="Kontra.gr" group-title="Greek" tvg-logo="http://i.imgur.com/GlLp3Ic.jpg",[COLOR orange]Kontra TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0141.m3u8
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/CzxGu1G.png",[COLOR orange]Blue Sky[/COLOR]
+http://176.9.175.244:1935/bluesky/tvlive/playlist.m3u8
 #EXTINF:0070 tvg-id="Extra.gr" group-title="Greek" tvg-logo="http://i.imgur.com/fmrqBcI.jpg",[COLOR orange]Extra Channel[/COLOR]
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 #EXTINF:0070 tvg-id="MADTV.gr" group-title="Greek" tvg-logo="http://i.imgur.com/imgHmLP.png",[COLOR orange]Mad TV[/COLOR]
@@ -41,10 +55,22 @@ http://www.iptvsaga.com/play/tv3/0139.m3u8
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/ZVmCknP.png",[COLOR orange]ELLINIKOS FM TV[/COLOR]
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
+#EXTINF:0070 tvg-id="CANNALI" group-title="Greek" tvg-logo="http://i.imgur.com/7TFlXBi.png",[COLOR orange]CANNALI[/COLOR]
+rtmp://live.streams.ovh/cannali/cannali
+#EXTINF:0070 tvg-id="TILEMOUSIKI" group-title="Greek" tvg-logo="http://i.imgur.com/piGhf3m.png",[COLOR orange]TILEMOUSIKI[/COLOR]
+mmsh://wpso.com:200/music
+#EXTINF:0070 tvg-id="APT.gr" group-title="Greek" tvg-logo="http://i.imgur.com/Comxiil.png",[COLOR orange]APT[/COLOR]
+http://stream-04.vty.dailymotion.com/08/dm/1/x4pvzft/live.isml/events(live-1473130816)/live-audio=128000-video=700000.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/iOv12tV.png",[COLOR orange]DIKTYO[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/7o98X3F.png",[COLOR orange]Omega[/COLOR]
 http://www.iptvsaga.com/play/tv3/0149.m3u8
+#EXTINF:0070 tvg-id="ACTION24" group-title="Greek" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",[COLOR orange]ACTION24[/COLOR]
+http://stream-05.vty.dailymotion.com/30/dm/1/x2p626q/live.isml/events(live-1473031516)/live-audio=64000-video=400000.m3u8
+#EXTINF:0070 tvg-id="CINEMA" group-title="Greek" tvg-logo="http://i.imgur.com/gCki3IN.png",[COLOR orange]GREEK CINEMA [/COLOR]
+http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0070 tvg-id="DIAVATATV" group-title="Greek" tvg-logo="http://i.imgur.com/ulePitj.png",[COLOR orange]DIAVATA TV[/COLOR]
+http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/xTy0Qww.gif",[COLOR orange]SBC[/COLOR]
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/dW08jNe.png",[COLOR orange]Zougla TV[/COLOR]
@@ -91,40 +117,68 @@ http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="VIMA TV.png",[COLOR orange]BHMA TV[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/IJ9CPOF.png",[COLOR orange]STAR K.E.[/COLOR]
+http://stream-11.vty.dailymotion.com/02/dm/1/xqjey2/live.isml/events(live-1473171523)/live-audio=128000-video=1200000.m3u8
+#EXTINF:0070 tvg-id="4E.gr" group-title="Greek" tvg-logo="http://i.imgur.com/YvXSqqO.png",[COLOR orange]LEPANTO[/COLOR]
+http://stream-02.vty.dailymotion.com/10/dm/1/x4eyjfv/live.isml/events(live-1473080872)/live-audio=128000-video=700000.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/5GXo7d3.png",[COLOR orange]R CHANNEL[/COLOR]
+rtmp://w11.streamgb.com:1935/8046/8046
+#EXTINF:0070 tvg-id="IPIROSTV.gr" group-title="Greek" tvg-logo="http://i.imgur.com/Gi8YadR.png",[COLOR orange]EPIRUS TV1[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/iR5x9vY.png",[COLOR orange]ITV[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/DFeXxxO.png",[COLOR orange]Astra TV[/COLOR]
+http://www.astratv.gr:8090/hls/livestream.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/K6yJMyU.png",[COLOR orange]ACHAIA CHANNEL[/COLOR]
+http://78.129.184.15:23319/streaming/stream/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/Hpu1DhY.png",[COLOR orange]BEST TV[/COLOR]
+http://138.201.57.212:1935/best/myStream/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/lFa1KuV.gif",[COLOR orange]SUPER B[/COLOR]
+plugin://plugin.video.youtube/play/?video_id=2nr2IGsk8Mw
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/mAhkgEw.png",[COLOR orange]SYROS TV1[/COLOR]
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/4566fqM.png",[COLOR orange]VOLCANO[/COLOR]
+rtmp://176.9.123.140:1935/santorini/santorini
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/2UQ9O1T.png",[COLOR orange]IONIAN TV[/COLOR]
+http://stream-07.vty.dailymotion.com/44/dm/1/x4hnjh6/live.isml/events(live-1473157072)/live-audio=128000-video=2000000.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://s1.dmcdn.net/Lpj8y/60x60-ioF.jpg",[COLOR orange]EXTRA KAVANTZA[/COLOR]
+http://stream-07.vty.dailymotion.com/03/dm/1/x418tkw/live.isml/events(live-1472820390)/live-audio=64000-video=400000.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek"  tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/APEIRO%20TV.png", [COLOR orange]APEIRO TV/COLOR]
+http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek"  tvg-logo="http://i.imgur.com/GdgekUL.png",[COLOR orange]TV FILOPOLI[/COLOR]
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/ZTIWHBd.png",[COLOR orange]NEW TV[/COLOR]
+http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",[COLOR orange]HELLENIC TV[/COLOR]
+rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 
-#EXTINF:0070 tvg-id="RikSat.gr" group-title="Greek" tvg-logo="http://over.ddns.net/channels/android/240/rik1.png",RIK SAT
+#EXTINF:0070 tvg-id="RikSat.gr" group-title="Greek" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
+#EXTINF:0070 tvg-id="ALPHACY.gr" tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY
+plugin://plugin.video.youtube/play/?video_id=0khKa0_RnXk
 
-#EXTINF:-1,[COLOR red][B]Οι παρακάτω σταθμοί δεν παίζουν[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]Οι παρακάτω σταθμοί είναι εκτός λειτουργίας[/B][/COLOR]
 http://0.0.0.0:12345
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/5fAgbi5.png",[COLOR orange]DELTA TV[/COLOR]
 mms://deltatv1.dyndns.org:1194
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/DFeXxxO.png",[COLOR orange]Astra TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0147.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/sepsdxn.png",[COLOR orange]THEMA TV[/COLOR]
 http://5.196.92.57/webtv/medium.m3u8
-#EXTINF:0070 tvg-id="APT.gr" group-title="Greek" tvg-logo="http://i.imgur.com/Comxiil.png",[COLOR orange]APT[/COLOR]
-http://over.ddns.net:65107/
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/uet8P2n.jpg",[COLOR orange]WZRA[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/aSbiRC1.png",[COLOR orange]BERGINA[/COLOR]
 http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/CzxGu1G.png",[COLOR orange]Blue Sky[/COLOR]
-http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]PONTOS[/COLOR]
 http://xdiontvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0070 tvg-id="IPIROSTV.gr" group-title="Greek" tvg-logo="EPIRUS TV1.png",[COLOR orange]EPIRUS TV1[/COLOR]
-http://www.iptvsaga.com/play/tv3/0150.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="EUROPE ONE.png",[COLOR orange]EUROPE ONE[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
-#EXTINF:0070 tvg-id="4E.gr" group-title="Greek" tvg-logo="LEPANTO.png",[COLOR orange]LEPANTO[/COLOR]
-http://78.129.184.15:33102/streaming/stream/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Makeleio WEB TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0151.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]STAR B.E.[/COLOR]
 mmsh://radiofeeds1.mediabox.gr/startv
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/lF7tUV8.png",[COLOR orange]MANA ELLADA TV[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS", [COLOR yellow][B]ΡΑΔΙΟΦΩΝΑ[/B][/COLOR]
 http://0.0.0.0:12345
