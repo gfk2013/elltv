@@ -1,43 +1,23 @@
 #EXTM3U
 #EXTINF:0070 tvg-id="EPT1.gr" group-title="Greek" tvg-logo=http://i.imgur.com/nbS3IKQ.png,[COLOR orange]EPT1[/COLOR]
-http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream3.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo=http:EPT1.png,[COLOR deepskyblue]EPT1 (2)[/COLOR]
-http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo=http:EPT1.png,[COLOR deepskyblue]EPT1 (3)[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0
 #EXTINF:0070 tvg-id="EPT2.gr" group-title="Greek" tvg-logo=http://i.imgur.com/gCFl7VI.png,[COLOR orange]EPT2[/COLOR]
-http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo=EPT2.png,[COLOR deepskyblue]EPT2 (2)[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI
 #EXTINF:0070 tvg-id="EPT3.gr" group-title="Greek"  tvg-logo=http://i.imgur.com/0Oz56bA.png,[COLOR orange]EPT3[/COLOR]
-plugin://plugin.video.youtube/play/?video_id=TAPQISON4YM
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo=EPT3.png,[COLOR deepskyblue]EPT3 (2)[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=nxebm_-DkF0
 #EXTINF:0070 tvg-id="ANT1.gr" group-title="Greek" tvg-logo=http://i.imgur.com/Pk6b6et.png,[COLOR orange]ANT1[/COLOR]
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ANT1.png",[COLOR deepskyblue]ANT1 (2)[/COLOR]
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ANT1.png",[COLOR deepskyblue]ANT1 (3)[/COLOR]
-http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
 #EXTINF:0070 tvg-id="mega.gr" group-title="Greek" tvg-logo=http://i.imgur.com/tSNcPRn.gif,[COLOR orange]MEGA[/COLOR]
-http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
+plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="MEGA.png",[COLOR deepskyblue]MEGA (2)[/COLOR]
 http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="MEGA.png",[COLOR deepskyblue]MEGA (3)[/COLOR]
-plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
 #EXTINF:0070 tvg-id="alpha.gr" group-title="Greek" tvg-logo="http://i.imgur.com/UzJNech.png",[COLOR orange]ALPHA[/COLOR]
 http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="ALPHA.png",[COLOR deepskyblue]ALPHA (2)[/COLOR]
-http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
 #EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo=http://i.imgur.com/30uLkyA.png,[COLOR orange]STAR[/COLOR]
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="STAR.png",[COLOR deepskyblue]STAR (2)[/COLOR]
-http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="STAR.png",[COLOR deepskyblue]STAR (3)[/COLOR]
-http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0070 tvg-id="Skai.gr" group-title="Greek"  tvg-logo=http://i.imgur.com/xYOQeIj.png,[COLOR orange]ΣKAI[/COLOR]
-http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek"  tvg-logo=SKAI.png,[COLOR deepskyblue]ΣKAI (2)[/COLOR]
 plugin://plugin.video.skai.gr/play/?action=live
 #EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo=http://i.imgur.com/fojL2bG.png,[COLOR orange]E TV[/COLOR]
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
@@ -57,8 +37,6 @@ rtmp://213.16.167.186:1935/live/mpegts_256.stream
 http://www.iptvsaga.com/play/tv3/0139.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/njCyV7W.jpg",[COLOR orange]JayzeeHD[/COLOR]
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/sepsdxn.png",[COLOR orange]THEMA TV[/COLOR]
-http://5.196.92.57/webtv/medium.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/ZVmCknP.png",[COLOR orange]ELLINIKOS FM TV[/COLOR]
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/iOv12tV.png",[COLOR orange]DIKTYO[/COLOR]
@@ -67,8 +45,6 @@ http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u
 http://www.iptvsaga.com/play/tv3/0149.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/xTy0Qww.gif",[COLOR orange]SBC[/COLOR]
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/DFeXxxO.png",[COLOR orange]Astra TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0147.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/dW08jNe.png",[COLOR orange]Zougla TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0136.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/0Ovqq2f.png",[COLOR orange]Tilesport APT[/COLOR]
@@ -89,8 +65,6 @@ http://www.iptvsaga.com/play/tv3/0152.m3u8
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/6xRxPun.png",[COLOR orange]Gold TV[/COLOR]
 mms://tvgold.webcast.mediacdn.com/tvgold
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/5fAgbi5.png",[COLOR orange]DELTA TV[/COLOR]
-mms://deltatv1.dyndns.org:1194
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/RW83YYe.png",[COLOR orange]AXELWOS[/COLOR]
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/Fs1wQbm.png",[COLOR orange]HELLAS TV[/COLOR]
@@ -121,6 +95,12 @@ http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/5fAgbi5.png",[COLOR orange]DELTA TV[/COLOR]
+mms://deltatv1.dyndns.org:1194
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/DFeXxxO.png",[COLOR orange]Astra TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0147.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/sepsdxn.png",[COLOR orange]THEMA TV[/COLOR]
+http://5.196.92.57/webtv/medium.m3u8
 #EXTINF:0070 tvg-id="APT.gr" group-title="Greek" tvg-logo="http://i.imgur.com/Comxiil.png",[COLOR orange]APT[/COLOR]
 http://over.ddns.net:65107/
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/uet8P2n.jpg",[COLOR orange]WZRA[/COLOR]
@@ -152,22 +132,9 @@ http://sc.greekstream.net:4012/;listen.pls
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",RADIO THESS 94.5
 http://eu7.fastcast4u.com:6156/;
 
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",PROTO PROGRAMMA 91.6
-http://nerit1radio-lh.akamaihd.net/i/proto_1@123327/master.m3u8
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",DEUTERO PROGRAMMA 102.9
-http://nerit2radio-lh.akamaihd.net/i/deftero_1@123328/master.m3u8
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",TRITO PROGRAMMA 90.9
-http://nerit3radio-lh.akamaihd.net/i/trito_1@123329/master.m3u8
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",I FONI TIS ELLADAS 7475
-http://voiceofgreece-lh.akamaihd.net/i/live_1@326376/master.m3u8
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERT3 958 95.8
-http://958fm-lh.akamaihd.net/i/live_1@359477/master.m3u8
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERT3 A PROGRAMMA 102
-http://neritmakedonia-lh.akamaihd.net/i/radiomakedonia_1@125579/master.m3u8
+
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERTOPEN 106.7
 http://radio.ertopen.com/erasport
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",ERA SPORT 101.8
-http://erasport-lh.akamaihd.net/i/live_1@326375/master.m3u8
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",OTE SPORT FM 94.6
 http://sportfm.live24.gr/sportfm7712
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",SPORT24 103.3
