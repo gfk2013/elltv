@@ -126,7 +126,7 @@ http://www.iptvsaga.com/play/tv3/0151.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]STAR B.E.[/COLOR]
 mmsh://radiofeeds1.mediabox.gr/startv
 
-#EXTINF:-1,[COLOR yellow][B]ΡΑΔΙΟΦΩΝΑ[/B][/COLOR]
+#EXTINF:-1,radio="true" [COLOR yellow][B]ΡΑΔΙΟΦΩΝΑ[/B][/COLOR]
 http://0.0.0.0:12345
 #EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",REAL FM 97.8
 http://netradio.live24.gr/realfm
