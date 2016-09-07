@@ -35,7 +35,7 @@ http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/EURONEWS.png",[COLOR orange]EURONEWS[/COLOR]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/7TV9bZY.png",[COLOR orange]PALMOS CINEMA TV[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/7TV9bZY.png",[COLOR orange]CINEMA TV PALMOS[/COLOR]
 http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 #EXTINF:0070 tvg-id="Macedonia.gr" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/MACEDONIA%20TV.png",[COLOR orange]Makedonia TV[/COLOR]
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
