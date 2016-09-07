@@ -25,7 +25,7 @@ http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
 #EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/STAR.png",[COLOR orange]STAR[/COLOR]  (down)
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
-#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/30uLkyA.png",[COLOR deepskyblue]STAR-EPT[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/30uLkyA.png",[COLOR deepskyblue]STAR - EPT HD[/COLOR]
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0070 tvg-id="Skai.gr" group-title="Greek"  tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/SKAI.png",[COLOR orange]ΣKAI[/COLOR]
 plugin://plugin.video.skai.gr/play/?action=live
@@ -37,11 +37,11 @@ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/7TV9bZY.png",[COLOR orange]PALMOS CINEMA TV[/COLOR]
 http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
-#EXTINF:0070 tvg-id="Macedonia.gr" group-title="Greek" tvg-logo="ttp://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/MACEDONIA%20TV.png",[COLOR orange]Makedonia TV[/COLOR]
+#EXTINF:0070 tvg-id="Macedonia.gr" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/MACEDONIA%20TV.png",[COLOR orange]Makedonia TV[/COLOR]
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0070 tvg-id="EPTWORLD.gr" group-title="Greek" tvg-logo="http://i.imgur.com/ZrD6GYb.png",[COLOR orange]EPT WORLD[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=rdlulSBQPp8
-#EXTINF:0070 tvg-id="vouli.gr" group-title="Greek" tvg-logo="ttp://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/BOYLH%20TV.png",[COLOR orange]BOYLH[/COLOR]
+#EXTINF:0070 tvg-id="vouli.gr" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/BOYLH%20TV.png",[COLOR orange]BOYLH[/COLOR]
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0070 tvg-id="Kontra.gr" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/KONTRA%20CHANNEL.png",[COLOR orange]Kontra TV[/COLOR]
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
