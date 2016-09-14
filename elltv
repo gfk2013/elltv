@@ -23,7 +23,7 @@ plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
 http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/ALPHA.png",[COLOR deepskyblue]ALPHA (2)[/COLOR]
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
-#EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/STAR.png",[COLOR orange]STAR[/COLOR]  (down)
+#EXTINF:0070 tvg-id="star.gr" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/STAR.png",[COLOR orange]STAR[/COLOR]
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/30uLkyA.png",[COLOR deepskyblue]STAR - EPT HD[/COLOR]
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
@@ -31,8 +31,8 @@ http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 plugin://plugin.video.skai.gr/play/?action=live
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/SKAI.png",[COLOR deepskyblue]SKAI (2)[/COLOR]
 http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
-#EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/E%20TV.png",[COLOR orange]E TV[/COLOR]  (down)
-http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
+#EXTINF:0070 tvg-id="ETV.gr" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/E%20TV.png",[COLOR orange]E TV[/COLOR]
+https://57c821d91eac3.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/EURONEWS.png",[COLOR orange]EURONEWS[/COLOR]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i.imgur.com/7TV9bZY.png",[COLOR orange]CINEMA TV PALMOS[/COLOR]
