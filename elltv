@@ -2,7 +2,7 @@
 #EXTINF:-1,[COLOR yellow][B]Playlist Loader addon[/B][/COLOR]
 http://0.0.0.0:12345
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/EPT1.png",[COLOR deepskyblue]EPT1[/COLOR]
-http://s2.greekelitetv.com:1935/ert1/ert1.stream/playlist.m3u8
+plugin://plugin.video.youtube/play/?video_id=GAser_IkADU
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/EPT1.png",[COLOR deepskyblue]EPT1 BUP [/COLOR]
 http://stream.ssh101.com:1935/live/upgert/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/EPT1.png",[COLOR deepskyblue]EPT1 BUP 2[/COLOR]
